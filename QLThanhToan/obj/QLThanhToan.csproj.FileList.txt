@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QLThanhToan.frmChiSoNuoc.resources
+obj\Debug\QLThanhToan.frmDonGia.resources
+obj\Debug\QLThanhToan.frmGhiChiSoDien.resources
+obj\Debug\QLThanhToan.frmKetNoi.resources
+obj\Debug\QLThanhToan.frmKhachHang.resources
+obj\Debug\QLThanhToan.frmMain.resources
+obj\Debug\QLThanhToan.frmNew_Edit.resources
+obj\Debug\QLThanhToan.frmNew_Edit_KH.resources
+obj\Debug\QLThanhToan.Properties.Resources.resources
+obj\Debug\QLThanhToan.csproj.GenerateResource.Cache
+bin\Debug\QLThanhToan.exe
+bin\Debug\QLThanhToan.pdb
+obj\Debug\QLThanhToan.exe
+obj\Debug\QLThanhToan.pdb

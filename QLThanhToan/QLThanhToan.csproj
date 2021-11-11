@@ -1,0 +1,175 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="Current">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8337B178-3F35-4CFB-9421-D08B03B9CEE9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLThanhToan</RootNamespace>
+    <AssemblyName>QLThanhToan</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="banGiaDien.cs" />
+    <Compile Include="banGiaNuoc.cs" />
+    <Compile Include="DALQLThanhToan.cs" />
+    <Compile Include="frmChiSoNuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChiSoNuoc.Designer.cs">
+      <DependentUpon>frmChiSoNuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDonGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDonGia.Designer.cs">
+      <DependentUpon>frmDonGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGhiChiSoDien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGhiChiSoDien.Designer.cs">
+      <DependentUpon>frmGhiChiSoDien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKetNoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKetNoi.Designer.cs">
+      <DependentUpon>frmKetNoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKhachHang.Designer.cs">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNew_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNew_Edit.Designer.cs">
+      <DependentUpon>frmNew_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNew_Edit_KH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNew_Edit_KH.Designer.cs">
+      <DependentUpon>frmNew_Edit_KH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang.cs" />
+    <Compile Include="PrintText.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmChiSoNuoc.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmChiSoNuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDonGia.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDonGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGhiChiSoDien.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmGhiChiSoDien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKetNoi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmKetNoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKhachHang.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNew_Edit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmNew_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNew_Edit_KH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmNew_Edit_KH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="QLDien.cs" />
+    <Compile Include="QLNuoc.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_hdr.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_BackGround.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_BackGround_Light.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QLThanhToan">
+</Property><Property Name="Solution File" Value="D:\BAI TAP\QLThanhToan\QLThanhToan.sln">
+</Property><Property Name="User Options File" Value="D:\BAI TAP\QLThanhToan\QLThanhToan.suo">
+</Property><Property Name="Date" Value="18 June, 2011">
+</Property><Property Name="Time" Value="9:18 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="QLThanhToan.sln" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan.sln">
+</Event><Event ErrorLevel="0" Project="" Source="QLThanhToan.suo" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan.suo">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\QLThanhToan.csproj" Description="Project file successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\QLThanhToan.csproj">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\banGiaDien.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\banGiaDien.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\banGiaNuoc.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\banGiaNuoc.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\DALQLThanhToan.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\DALQLThanhToan.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmChiSoNuoc.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmChiSoNuoc.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmChiSoNuoc.Designer.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmChiSoNuoc.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmDonGia.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmDonGia.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmDonGia.Designer.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmDonGia.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmGhiChiSoDien.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmGhiChiSoDien.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmGhiChiSoDien.Designer.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmGhiChiSoDien.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmKetNoi.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmKetNoi.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmKetNoi.Designer.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmKetNoi.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmKhachHang.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmKhachHang.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmKhachHang.Designer.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmKhachHang.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmMain.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmMain.Designer.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmNew_Edit.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmNew_Edit.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmNew_Edit.Designer.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmNew_Edit.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmNew_Edit_KH.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmNew_Edit_KH.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmNew_Edit_KH.Designer.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmNew_Edit_KH.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\KhachHang.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\KhachHang.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\PrintText.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\PrintText.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\Program.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\Program.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\QLDien.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\QLDien.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\QLNuoc.cs" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\QLNuoc.cs">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\Properties\Settings.settings" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\Resources\btn_bg.jpg" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\Resources\btn_bg.jpg">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\Resources\main_hdr.PNG" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\Resources\main_hdr.PNG">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\Resources\btn_BackGround.PNG" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\Resources\btn_BackGround.PNG">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\Resources\btn_BackGround_Light.PNG" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\Resources\btn_BackGround_Light.PNG">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmChiSoNuoc.resx" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmChiSoNuoc.resx">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmDonGia.resx" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmDonGia.resx">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmGhiChiSoDien.resx" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmGhiChiSoDien.resx">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmKetNoi.resx" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmKetNoi.resx">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmKhachHang.resx" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmKhachHang.resx">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmMain.resx" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmNew_Edit.resx" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmNew_Edit.resx">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\frmNew_Edit_KH.resx" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\frmNew_Edit_KH.resx">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\Properties\Resources.resx" Description="File successfully backed up as D:\BAI TAP\QLThanhToan\Backup\QLThanhToan\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\QLThanhToan.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QLThanhToan" Source="QLThanhToan\QLThanhToan.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="QLThanhToan.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="QLThanhToan.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QLThanhToan" Source="QLThanhToan\QLThanhToan.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
